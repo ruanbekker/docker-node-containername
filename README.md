@@ -46,7 +46,7 @@ My Hostname: e0b7316fdd51
 Remove the Stack:
 
 ```
-$  docker stack rm node
+$ docker stack rm node
 Removing service node_loadbalancer
 Removing service node_node-app
 Removing network node_nodenet
